@@ -33,3 +33,4 @@ if(place_meeting(x,y+vel_vertical, Obj_chao))
 	
 y = y + vel_vertical;
  
+ show_debug_message(vida);
